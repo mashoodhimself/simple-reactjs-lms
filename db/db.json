@@ -1,0 +1,24 @@
+{
+  "login": [
+    {
+      "username": "mashood",
+      "password": "admin"
+    }
+  ],
+  "books": [
+    {
+      "book": "OOP",
+      "author": "Danial Liang",
+      "price": "239",
+      "rating": "5.5",
+      "id": 1
+    },
+    {
+      "book": "junine@mailinator.com",
+      "author": "442",
+      "price": "785",
+      "rating": "712",
+      "id": 3
+    }
+  ]
+}
